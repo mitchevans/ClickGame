@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/03/special-agent-dale-cooper.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/05/doctor-lawrence-jacoby.jpg",
+      "clicked": false
+      
+    },
+    {
+      "id": 3,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/10/pete-martell-e1463344815604.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/05/shelly-johnson.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2016/04/audrey-horne-2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/12/leland-palmer.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2016/02/norma-jennings.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2016/04/donna-hayward-2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/09/benjamin-horne.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/10/bobby-briggs.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/04/laura-palmer-1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/06/leo-johnson.jpeg",
+      "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/05/sarah-palmer.jpg",
+        "clicked": false
+      },
+      {
+        "id": 14,
+        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/03/hank-jennings.jpg",
+        "clicked": false
+        
+      },
+      {
+        "id": 15,
+        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/03/ed-hurley.jpg",
+        "clicked": false
+      },
+      {
+        "id": 16,
+        "image": "https://visittwinpeaks.com/wp-content/uploads/2015/10/catherine-martell.jpg",
+        "clicked": false
+      },
+      {
+        "id": 17,
+        "image": "https://visittwinpeaks.com/wp-content/uploads/2015/05/james-hurley.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 18,
+        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/04/josie-packard-2.jpg",
+        "clicked": false
+      }
+  ]
+  

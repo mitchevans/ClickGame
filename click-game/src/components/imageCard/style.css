@@ -1,0 +1,10 @@
+img {
+  margin-bottom: 25px
+}
+
+.img-thumbnail {
+
+  background-color: #47ff52;
+  border: 1px solid #47ff52;
+  padding: 2px;
+}
