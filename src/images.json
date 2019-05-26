@@ -1,95 +1,45 @@
 [
     {
       "id": 1,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/03/special-agent-dale-cooper.jpeg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/the_log_lady_by_neoalxtopi-d4u66db.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/05/doctor-lawrence-jacoby.jpg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/dr__jacoby_by_neoalxtopi-d4v0xyk.jpg",
       "clicked": false
       
     },
     {
       "id": 3,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/10/pete-martell-e1463344815604.jpg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/gordon_cole_by_neoalxtopi-d4v0ybk.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/05/shelly-johnson.jpeg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/windom_earle_by_neoalxtopi-d4vytw4.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2016/04/audrey-horne-2.jpg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/lucy_moran_by_neoalxtopi-d4toyck.jpg",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/12/leland-palmer.jpg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/donna_hayward_by_neoalxtopi-d4toygn.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2016/02/norma-jennings.jpg",
+      "image": "https://welcometotwinpeaks.com/wp-content/uploads/big_ed_by_neoalxtopi-d4v0xwj.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2016/04/donna-hayward-2.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171124-139042159_10.jpg?crop=1260:720&width=1260",
       "clicked": false
-    },
-    {
-      "id": 9,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/09/benjamin-horne.jpeg",
-      "clicked": false
-    },
-    {
-      "id": 10,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/10/bobby-briggs.jpg",
-      "clicked": false
-    },
-    {
-      "id": 11,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/04/laura-palmer-1.jpg",
-      "clicked": false
-    },
-    {
-      "id": 12,
-      "image": "https://visittwinpeaks.com/wp-content/uploads/2015/06/leo-johnson.jpeg",
-      "clicked": false
-    },
-    {
-        "id": 13,
-        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/05/sarah-palmer.jpg",
-        "clicked": false
-      },
-      {
-        "id": 14,
-        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/03/hank-jennings.jpg",
-        "clicked": false
-        
-      },
-      {
-        "id": 15,
-        "image": "https://visittwinpeaks.com/wp-content/uploads/2016/03/ed-hurley.jpg",
-        "clicked": false
-      },
-      {
-        "id": 16,
-        "image": "https://visittwinpeaks.com/wp-content/uploads/2015/10/catherine-martell.jpg",
-        "clicked": false
-      },
-      {
-        "id": 17,
-        "image": "https://visittwinpeaks.com/wp-content/uploads/2015/05/james-hurley.jpeg",
-        "clicked": false
-      },
-      {
-        "id": 18,
-        "image": "https://welcometotwinpeaks.com/wp-content/uploads/donna_hayward_by_neoalxtopi-d4toygn.jpg",
-        "clicked": false
-      }
+    }
+    
   ]
   
