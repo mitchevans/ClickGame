@@ -1,45 +1,68 @@
 [
     {
       "id": 1,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/the_log_lady_by_neoalxtopi-d4u66db.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171234-85375927_10.jpg?crop=1260:720&width=1260",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/dr__jacoby_by_neoalxtopi-d4v0xyk.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171123-85130443_10.jpg?crop=1260:720&width=1260",
       "clicked": false
       
     },
     {
       "id": 3,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/gordon_cole_by_neoalxtopi-d4v0ybk.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171235-93741529_10.jpg?crop=1260:720&width=1260",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/windom_earle_by_neoalxtopi-d4vytw4.png",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171233-85333441_10.jpg?crop=1260:720&width=1260",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/lucy_moran_by_neoalxtopi-d4toyck.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171260-85332433_10.jpg?crop=1260:720&width=1260",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/donna_hayward_by_neoalxtopi-d4toygn.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171170-85332505_10.jpg?crop=1260:720&width=1260",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "https://welcometotwinpeaks.com/wp-content/uploads/big_ed_by_neoalxtopi-d4v0xwj.jpg",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171161-85324626_10.jpg?crop=1260:720&width=1260",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171124-139042159_10.jpg?crop=1260:720&width=1260",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171154-85330793_10.jpg?crop=1260:720&width=1260",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171139-85752266_10.jpg?crop=1260:720&width=1260",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171148-85129933_10.jpg?crop=1260:720&width=1260",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171156-85333581_10.jpg?crop=1260:720&width=1260",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-171160-MIKEDream.jpg?crop=1260:720&width=1260",
       "clicked": false
     }
+
+
+    
     
   ]
   
